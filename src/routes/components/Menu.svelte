@@ -34,7 +34,7 @@
         <nav>
             <a href="/status" on:click(toggle) class:active={lastsegment == 'status'}>Campaign overview</a>
             <a href="/map" on:click(toggle) class:active={lastsegment == 'map'}>Mission Map</a>
-            <a href="https://drive.google.com/drive/folders/1--hm1m8S_gOkwbgNIW5FoEDAaLV13ey5" on:click(toggle) target="_blank">Tacview</a>
+            <a href="https://drive.google.com/drive/folders/1-6nMJVR2fcNRpdjKj9wSie1RY_fm7oZn?usp=sharing" on:click(toggle) target="_blank">Tacview</a>
         </nav>
         <div class="discord">
             <a href="/discord" target="_blank">&#10140; Join our Discord</a>
